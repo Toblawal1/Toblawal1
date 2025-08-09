@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Vulnerability Management Home Lab](https://github.com/Toblawal1/Vulnerability-Management-project)
-  - [Threat Detection Lab] [Threat Detection Lab]()
+  - [Threat Detection Lab](https://github.com/Toblawal1/Threat-Detection-Lab)
 
 
 
