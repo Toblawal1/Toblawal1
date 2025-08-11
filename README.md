@@ -4,6 +4,7 @@
 
   - [Vulnerability Management Home Lab](https://github.com/Toblawal1/Vulnerability-Management-project)
   - [Threat Detection Lab](https://github.com/Toblawal1/Threat-Detection-Lab)
+ - [Phishing Analysis](https://github.com/Toblawal1/Threat-Detection-Lab)
 
 
 
